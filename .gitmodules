@@ -1,0 +1,3 @@
+[submodule "submodulee"]
+	path = submodulee
+	url = https://github.com/Sairoom/submodulee.git
